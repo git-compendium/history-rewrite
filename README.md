@@ -1,8 +1,8 @@
 # history-rewrite
 
-Beispiel zum permanenten Löschen von Dateien aus Git
+Sample data for practicing how to permanently delete files from git
 
-Drei Möglichkeiten zum Löschen:
+Three ways to do it
 
 * git-filter-repo
 * BFG
